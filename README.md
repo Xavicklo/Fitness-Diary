@@ -1,6 +1,6 @@
-# my-fitness-diary
+# Fitness Diary
 
-## using JavaFX and Mysql 
+## Using JavaFX and MySQL
 <img width="554" alt="截圖 2022-06-27 下午1 10 43" src="https://user-images.githubusercontent.com/74034793/175864611-1bdaab9e-29ca-43a2-b127-67a272668ee5.png">
 <img width="505" alt="截圖 2022-06-27 下午1 10 51" src="https://user-images.githubusercontent.com/74034793/175864610-441fc0de-c4dc-4c1d-961b-ffe2b7cf51d9.png">
 <img width="526" alt="截圖 2022-06-27 下午1 10 59" src="https://user-images.githubusercontent.com/74034793/175864605-df1795e6-c5e7-4806-b988-ebef88635006.png">
